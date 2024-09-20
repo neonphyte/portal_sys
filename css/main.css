@@ -1,0 +1,48 @@
+#logo {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.header {
+    padding-top: 10%;
+    text-align: center;
+}
+
+.register {
+    padding-top: 10%;
+}
+.registration-success, .registration-failed {
+    padding-top: 10%;
+}
+
+.register-failed {
+    padding-top: 10%;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+img {
+    border: 5px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+  }
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    color: gray;
+    font-style: italic;
+    text-align: center;
+}
+
+
+footer {
+    text-align: center;
+    font-style: italic;
+    font-size: 12px;
+    border-top: 1px solid black;
+}
